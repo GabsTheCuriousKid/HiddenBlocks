@@ -2,7 +2,7 @@ module.exports = {
     extends: 'scratch-semantic-release-config',
     branches: [
         {
-            name: 'develop'
+            name: 'main'
             // default channel
         },
         {
